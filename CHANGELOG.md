@@ -1,5 +1,11 @@
 # @nenad_banjeglav/greeting-package
 
+## 2.0.0
+
+### Major Changes
+
+- bad7855: Added Grumpy to the monarch cats
+- e55b277: Created a monarch cats morning greet
 
 ## 2.0.0-beta.1
 
@@ -18,7 +24,6 @@
 ### Patch Changes
 
 - 8068fe4: Night greet changed
-
 
 ## 1.2.1
 

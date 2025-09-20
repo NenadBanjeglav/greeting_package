@@ -1,0 +1,11 @@
+{
+  "mode": "exit",
+  "tag": "beta",
+  "initialVersions": {
+    "@nenad_banjeglav/greeting-package": "1.2.1"
+  },
+  "changesets": [
+    "every-roses-attack",
+    "mean-parrots-fix"
+  ]
+}

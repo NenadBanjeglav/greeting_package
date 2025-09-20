@@ -1,5 +1,11 @@
 # @nenad_banjeglav/greeting-package
 
+## 2.0.0-beta.1
+
+### Major Changes
+
+- bad7855: Added Grumpy to the monarch cats
+
 ## 2.0.0-alpha.0
 
 ### Major Changes

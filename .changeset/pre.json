@@ -1,0 +1,8 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "@nenad_banjeglav/greeting-package": "1.2.1"
+  },
+  "changesets": []
+}

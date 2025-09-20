@@ -4,5 +4,7 @@
   "initialVersions": {
     "@nenad_banjeglav/greeting-package": "1.2.1"
   },
-  "changesets": []
+  "changesets": [
+    "mean-parrots-fix"
+  ]
 }

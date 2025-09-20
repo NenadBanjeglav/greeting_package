@@ -1,6 +1,6 @@
 {
   "name": "@nenad_banjeglav/greeting-package",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "This package is for greeting a person during the day",
   "homepage": "https://github.com/NenadBanjeglav/greeting_package#readme",
   "bugs": {

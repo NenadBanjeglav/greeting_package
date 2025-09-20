@@ -1,10 +1,8 @@
 {
   "mode": "pre",
-  "tag": "alpha",
+  "tag": "beta",
   "initialVersions": {
     "@nenad_banjeglav/greeting-package": "1.2.1"
   },
-  "changesets": [
-    "mean-parrots-fix"
-  ]
+  "changesets": ["mean-parrots-fix"]
 }

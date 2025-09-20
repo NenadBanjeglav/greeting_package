@@ -1,5 +1,11 @@
 # @nenad_banjeglav/greeting-package
 
+## 1.2.2
+
+### Patch Changes
+
+- 8068fe4: Night greet changed
+
 ## 1.2.1
 
 ### Patch Changes

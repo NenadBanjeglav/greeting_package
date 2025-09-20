@@ -1,5 +1,11 @@
 # @nenad_banjeglav/greeting-package
 
+## 1.2.1
+
+### Patch Changes
+
+- 8f0d8db: Night greet changed text to something warmer
+
 ## 1.2.0
 
 ### Minor Changes
